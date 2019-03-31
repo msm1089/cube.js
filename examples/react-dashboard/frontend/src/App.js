@@ -151,7 +151,7 @@ class App extends Component {
         </Row>
         <GithubCorner
           size={120}
-          href="https://github.com/statsbotco/cube.js/tree/master/examples/react-dashboard"
+          href="https://github.com/msm1089/cube.js/tree/master/examples/react-dashboard"
         />
       </Container>
     );
